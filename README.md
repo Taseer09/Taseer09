@@ -1,16 +1,85 @@
-# 💫 About Me:
-<br><br>Option 1: The "Visionary Leader" (Best for LinkedIn)<br>This option highlights the intersection of your technical depth and your business acumen.<br><br>Headline: AI Researcher & Tech Entrepreneur | Deep Learning & AI Agents | Specializing in Organizational Leadership<br><br>About Me:<br><br>I am an AI Specialist and Tech Entrepreneur standing at the convergence of advanced mathematics, deep learning, and strategic leadership. My passion lies in translating complex mathematical concepts into deployable, high-impact machine learning solutions.<br><br>With a strong foundation in Mathematics for Machine Learning, I don't just use models; I understand the architecture behind them. My specialization includes:<br><br>Deep Learning & Machine Learning: Designing and training robust neural networks.<br><br>Tech Entrepreneurship: Transforming technical innovations into viable business products.<br><br>Organizational Leadership: Guiding technical teams with a clear vision and structured management.<br><br>Current Focus: I am a daily practitioner, constantly building and experimenting. Currently, my primary focus is on developing autonomous AI Agents that can perceive, reason, and act to solve complex workflows.<br><br>Let's Connect: I believe innovation happens through collaboration. I am open to deep discussions regarding AI architecture, project collaboration, and the future of tech entrepreneurship.
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/taseermehboob1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/taseeryusufzai) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/taseer-mehboob) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@taseerm) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Old_Minimum8263) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Taseermehboob09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:taseermehboob@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=flat&logo=nVIDIA&logoColor=green) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Taseer09&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Taseer09&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Taseer09&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h1 align="center">Hi 👋, I'm Taseer Mehboob</h1>
+<h3 align="center">AI Engineer | Deep Learning & ML Specialist | AI Agents Builder</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Taseer09&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🌐 Connect with Me
+<p align="left">
+  <a href="https://facebook.com/taseermehboob1"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
+  <a href="https://instagram.com/taseeryusufzai"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/taseer-mehboob"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://medium.com/@taseerm"><img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white"/></a>
+  <a href="mailto:taseermehboob@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+## 🚀 About Me
+- 🎓 **Specialized in**:
+  - Deep Learning
+  - Machine Learning
+  - Mathematics for Machine Learning
+  - Tech Entrepreneurship
+  - Organizational Leadership
+
+- 🤖 **Currently working on**:  
+  **AI Agents** (Autonomous, Tool-Using, Multi-Agent Systems)
+
+- 🛠️ **Daily Project Builder** — learning by shipping real-world AI systems  
+- 💬 **Open to discussions** on AI, ML, Deep Learning & AI Projects  
+- 🌱 Exploring **MLOps, AI Products & Scalable AI Systems**
+
+---
+
+## 🧠 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat"/>
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma"/>
+</p>
+
+---
+
+## 🧪 What I Build
+- 🔍 AI-powered prediction & classification systems  
+- 🌾 AI solutions for **Agriculture & Drones**  
+- 🤖 Autonomous **AI Agents & Tool-Calling Systems**  
+- 📊 Data Visualization & ML Dashboards  
+- 🚀 MVPs for AI Startups & Products
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Taseer09&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Taseer09&theme=tokyonight"/>
+</p>
+
+---
+
+## 🤝 Let’s Collaborate
+- AI Projects & Research  
+- Open-source Contributions  
+- Startup Ideas & AI Products  
+- AI Agent Frameworks  
+
+📩 **Reach out — I love building and discussing AI.**
+
+---
